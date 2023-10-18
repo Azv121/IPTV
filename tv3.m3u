@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="BBC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", BBC1
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png", BBC2
+https://helpfulpost.net/bbctwo/index.m3u8
+#EXTINF:-1 tvg-name="BBC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png", BBC3
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png", ITV1
 http://92.114.85.81:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="ITV2" tvg-logo="https://i.imgur.com/2BpUK0W.png", ITV2
