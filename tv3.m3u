@@ -15,3 +15,9 @@ http://92.114.85.77:8000/play/a0b9
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png", NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-name="B4U Music India" tvg-logo="https://i.imgur.com/LacwebD.png", B4U Music India
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:-1 tvg-name="B4U Movies India" tvg-logo="https://i.imgur.com/M9kMFJl.png", B4U Movies India
+http://183.89.246.119:8881/play/a08n/index.m3u8
