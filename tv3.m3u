@@ -23,7 +23,7 @@ http://92.114.85.77:8000/play/a09h
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://i.imgur.com/F3a8mV4.png", Channel 5
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png", E4 HD
+#EXTINF:-1 tvg-name="E4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png", E4
 http://92.114.85.81:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/640px-E4_Extra_logo_2022.svg.png", E4 Extra
 http://92.114.85.81:8000/play/a03r/index.m3u8
