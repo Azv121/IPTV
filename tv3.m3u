@@ -11,14 +11,34 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 http://92.114.85.81:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="ITV2" tvg-logo="https://i.imgur.com/2BpUK0W.png", ITV2
 http://92.114.85.77:8000/play/a041
+#EXTINF:-1 tvg-name="ITV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png", ITV3
+http://92.114.85.77:8000/play/a04z
+#EXTINF:-1 tvg-name="ITV4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png", ITV4
+http://92.114.85.77:8000/play/a05z
+#EXTINF:-1 tvg-name="ITVBe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png", ITVBe
+http://92.114.85.77:8000/play/a09h
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://i.imgur.com/B96zmyv.png", Channel 4
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://i.imgur.com/F3a8mV4.png", Channel 5
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png", E4
+http://92.114.85.81:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/640px-E4_Extra_logo_2022.svg.png", E4 Extra
+http://92.114.85.81:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-name="More4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1023px-More4_logo_2018.svg.png", More4
+http://92.114.85.81:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-name="5STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/640px-5Star_logo_2019.svg.png", 5STAR
+http://92.114.85.81:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-name="5ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/640px-5Action_logo.svg.png", 5ACTION
+http://92.114.85.81:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-name="5 USA" tvg-logo="https://i.imgur.com/Pi7so2l.png", 5 USA
+http://92.114.85.81:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-name="GREAT! movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/640px-Great%21_Movies_logo_2021.svg.png", GREAT! movies
 http://92.114.85.81:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-name="CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png", CBS Reality
 http://92.114.85.81:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-name="W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/640px-W_%28UKTV%29_2022.svg.png", W
+http://92.114.85.81:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png", Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="NHK World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png", NHK World HD
