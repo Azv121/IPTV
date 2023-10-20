@@ -53,6 +53,8 @@ http://92.114.85.77:8000/play/a0ak
 http://92.114.85.81:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/CDsoyjN.png", DMAX
 http://92.114.85.81:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-name="EarthxTV HD" tvg-logo="https://i.imgur.com/AvJRFKf.png", EarthxTV HD
+http://92.114.85.81:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-name="CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png", CBS Reality
 http://92.114.85.81:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-name="RealityXtra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/RealityXtra_logo.svg/640px-RealityXtra_logo.svg.png", RealityXtra
@@ -71,6 +73,8 @@ http://92.114.85.81:8000/play/a03x/index.m3u8
 http://92.114.85.81:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png", Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="BBC NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png", BBC NEWS HD
+http://92.114.85.81:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us", CNN HD
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="NHK World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png", NHK World HD
