@@ -87,3 +87,5 @@ https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(
 http://183.89.246.119:8881/play/a08o/index.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/M9kMFJl.png" tvg-id="B4U.Movies.in", B4U Movies
 http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://i.imgur.com/Xpg3RVF.png" tvg-id="9XM.in", 9XM
+https:\\d2q8p4pe5spbak.cloudfront.net\bpk-tv\9XM\9XM.isml\index.m3u8
