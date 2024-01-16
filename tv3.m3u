@@ -89,3 +89,5 @@ http://183.89.246.119:8881/play/a08o/index.m3u8
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1 tvg-name="9XM" tvg-logo="https://i.imgur.com/Xpg3RVF.png" tvg-id="9XM.in", 9XM
 https:\\d2q8p4pe5spbak.cloudfront.net\bpk-tv\9XM\9XM.isml\index.m3u8
+#EXTINF:-1 tvg-name="Boggle Bollywood" tvg-logo="https://i.imgur.com/DGjmv40.jpg" tvg-id="BoggleBollywood.in", Boggle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
